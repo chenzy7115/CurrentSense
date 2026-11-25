@@ -1,0 +1,12 @@
+{
+  "name": "DengFOC",
+  "version": "0.3.0",
+  "description": "DengFOC 灯哥开源 FOC 库 V0.3 (Lesson8 电流力矩闭环) - 移植适配 Arduino-ESP32 3.x",
+  "keywords": "foc, bldc, motor, as5600, esp32",
+  "license": "GPL-3.0",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "build": {
+    "srcDir": "src"
+  }
+}
